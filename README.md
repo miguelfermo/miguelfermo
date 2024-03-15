@@ -1,8 +1,8 @@
-## Eai! eu sou o Miguel 🖐️
+## Hi! I'm Miguel Fermo 🖐️
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
 
- <strong> Seja Bem vindo !! 😁 </strong>
+ <strong> Welcome !! 😁 </strong>
 
  🛠 <b>Skills</b>
 
@@ -20,7 +20,7 @@
 
  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfermo&show_icons=true&theme=dark&count_private=true)
 
-## 📌| Tecnologias que uso
+## 📌| Technologies I use in my day
 
 <div style="display: inline_block"><br>
 
@@ -30,10 +30,12 @@
   <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   || 
   <img align="center" alt="Miguel-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  || 
+  <img align="center" alt="Miguel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
 </div>
 
-## 📌| Meios de comunicação
+## 📌| Media
 
 <div>
 
