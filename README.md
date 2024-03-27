@@ -6,7 +6,7 @@
 
  🛠 <b>Skills</b>
 
-- **Frontend:** HTML e CSS
+- **Frontend:** HTML, CSS e JavaScript
 - **Backend:** Phyton
 
 👔 <b> Soft skills</b>
