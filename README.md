@@ -20,6 +20,7 @@
 
  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfermo&show_icons=true&theme=dark&count_private=true)
 
+
 ## 📌| Technologies I use in my day
 
 <div style="display: inline_block"><br>
@@ -37,6 +38,8 @@
   
 </div>
 
+<br>
+
 ## 📌| Media
 
 <div>
@@ -44,3 +47,9 @@
 <a href="https://www.linkedin.com/in/miguel-rossi-fermo-b6461024a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin-Miguel" height="30" width="40" /></a>
 <a href="https://www.instagram.com/miguel_fermo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram-Miguel" height="30" width="40" /></a>
 </div>
+<br>
+
+## 🏆| GitHub Trophies
+
+![Fraga GitHub stats](https://github-profile-trophy.vercel.app/?username=MiguelFermo&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
