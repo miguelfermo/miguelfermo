@@ -44,7 +44,7 @@
 
 <div>
 
-<a href="https://www.linkedin.com/in/miguel-rossi-fermo-b6461024a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin-Miguel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miguelfermo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin-Miguel" height="30" width="40" /></a>
 <a href="https://www.instagram.com/miguel_fermo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram-Miguel" height="30" width="40" /></a>
 </div>
 <br>
