@@ -1,4 +1,4 @@
-## Hi! I'm Miguel Fermo 🖐️
+## ![Fraga GitHub stats](https://readme-typing-svg.demolab.com/?font=Arial&weight=900&size=30&pause=2000&color=5499EB&vCenter=true&random=false&width=435&height=35&lines=Hello!+I+am+Miguel+Fermo+👋)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
 
@@ -18,7 +18,7 @@
 
 <br>
 
- ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfermo&show_icons=true&theme=dark&count_private=true)
+ ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelFermo&show_icons=true&theme=github_dark&hide_border=true&count_private=true"%20target="_blank"%20width="49%"%20height="180px)
 
 
 ## 📌| Technologies I use in my day
