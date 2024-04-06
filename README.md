@@ -1,4 +1,4 @@
-## ![Fraga GitHub stats](https://readme-typing-svg.demolab.com/?font=Arial&weight=900&size=30&pause=2000&color=7430C2&vCenter=true&random=false&width=435&height=35&lines=Hello!+I+am+Miguel+Fermo+👋)
+## ![Fraga GitHub stats](https://readme-typing-svg.demolab.com/?font=Arial&weight=900&size=30&pause=2000&color=8B27C4&vCenter=true&random=false&width=435&height=35&lines=Hello!+I+am+Miguel+Fermo+👋)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
 
@@ -18,7 +18,7 @@
 
 <br>
 
- ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfermo&show_icons=true&count_private=true&line_height=25&title_color=7430C2&icon_color=7430C2&text_color=fff&bg_color=201f1f&hide_border=true"%20width="550")
+ ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfermo&show_icons=true&count_private=true&line_height=25&title_color=8B27C4&icon_color=8B27C4&text_color=fff&bg_color=201f1f&hide_border=true"%20width="550")
 
 
 ## 📌| Technologies I use in my day
