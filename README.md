@@ -9,7 +9,7 @@
 - **Frontend:** HTML, CSS e JavaScript
 - **Backend:** Python
 
-🔮 <b> Soft skills</b>
+👔 <b> Soft skills</b>
 <br>
 
 - **Work collaboratively in a team**
@@ -18,7 +18,7 @@
 
 <br>
 
- ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfermo&show_icons=true&count_private=true&line_height=25&title_color=6B13D6&icon_color=4713D6&text_color=fff&bg_color=201f1f&hide_border=true"%20width="550")
+ ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfermo&show_icons=true&count_private=true&line_height=25&title_color=134BD6&icon_color=134BD6&text_color=fff&bg_color=201f1f&hide_border=true"%20width="550")
 
 
 ## 📌| Technologies I use in my day
