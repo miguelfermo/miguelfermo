@@ -17,7 +17,6 @@
 - **Good communication skills**
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelfermo&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="miguelfermo" /> </p>
 
  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfermo&title_color=134BD6&icon_color=134BD6&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
@@ -54,3 +53,5 @@
 
 ![Fraga GitHub stats](https://github-profile-trophy.vercel.app/?username=MiguelFermo&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
+## 📍 Contagem de visitantes do perfil
+  <img src="https://profile-counter.glitch.me/miguelfermo/count.svg" />  
