@@ -44,7 +44,7 @@
     <img style="margin-right:5px" align="center" alt="notion" height="40" width="40" src="https://skillicons.dev/icons?i=netlify"> 
     <img style="margin-right:5px" align="center" alt="apache" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> 
     <img style="margin-right:5px" align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img style="margin-right:5px" align="center" alt="markdown" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"> 
+    <img style="margin-right:5px" align="center" alt="markdown" height="40" width="40" src="https://skillicons.dev/icons?i=md"> 
     <img style="margin-right:5px" align="center" alt="github" height="40" width="40" src="https://skillicons.dev/icons?i=github"> 
     <img style="margin-right:5px" align="center" alt="notion" height="40" width="40" src="https://skillicons.dev/icons?i=notion"> 
 </div>
