@@ -22,35 +22,33 @@
 
 
 ## 📌| Technologies I use in my day and currently studying
+<div style="display: flex; justify-content: center;" align=center>
+    <img style="margin-right:5px" align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img style="margin-right:5px" align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img style="margin-right:5px" align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img style="margin-right:5px" align="center" alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img style="margin-right:5px" align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img style="margin-right:5px" align="center" alt="vitejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
+    <img style="margin-right:5px" align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img style="margin-right:5px" align="center" alt="postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img style="margin-right:5px" align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+</div>
+<div style="display: flex; justify-content: center;" align=center>
+    <img style="margin-right:5px" align="center" alt="flask" height="40" width="40" src="https://skillicons.dev/icons?i=flask"> 
+    <img style="margin-right:5px" align="center" alt="streamlit" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg">
+    <img style="margin-right:5px" align="center" alt="numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
+    <img style="margin-right:5px" align="center" alt="pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"> 
+    <img style="margin-right:5px" align="center" alt="numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+    <img style="margin-right:5px" align="center" alt="vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img style="margin-right:5px" align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+    <img style="margin-right:5px" align="center" alt="notion" height="40" width="40" src="https://skillicons.dev/icons?i=netlify"> 
+    <img style="margin-right:5px" align="center" alt="apache" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> 
+    <img style="margin-right:5px" align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img style="margin-right:5px" align="center" alt="markdown" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"> 
+    <img style="margin-right:5px" align="center" alt="github" height="40" width="40" src="https://skillicons.dev/icons?i=github"> 
+    <img style="margin-right:5px" align="center" alt="notion" height="40" width="40" src="https://skillicons.dev/icons?i=notion"> 
+</div>
 
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="vitejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
-  ||
-  <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  ||
-    <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  ||
-  <img align="center" alt="flask" height="40" width="40" src="https://skillicons.dev/icons?i=flask"> 
-  <img align="center" alt="streamlit" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg">
-  <img align="center" alt="numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
-  <img align="center" alt="pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"> 
-  <img align="center" alt="numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  || 
-  <img align="center" alt="vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-  <img align="center" alt="notion" height="40" width="40" src="https://skillicons.dev/icons?i=netlify"> 
-  <img align="center" alt="apache" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> 
-  <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="markdown" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"> 
-  <img align="center" alt="github" height="40" width="40" src="https://skillicons.dev/icons?i=github"> 
-  <img align="center" alt="notion" height="40" width="40" src="https://skillicons.dev/icons?i=notion"> 
 
   
 </div>
@@ -59,8 +57,7 @@
 
 ## 📌| Media
 
-<div>
-
+<div align=center>
 <a href="https://www.linkedin.com/in/miguelfermo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin-Miguel" height="30" width="40" /></a>
 <a href="https://www.instagram.com/miguel_fermo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram-Miguel" height="30" width="40" /></a>
 </div>
