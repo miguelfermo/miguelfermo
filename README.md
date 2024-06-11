@@ -67,5 +67,5 @@
 
 ![Fraga GitHub stats](https://github-profile-trophy.vercel.app/?username=MiguelFermo&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-## 📍 Contagem de visitantes do perfil
+## 📍 Profile Visitor Count
   <img src="https://profile-counter.glitch.me/miguelfermo/count.svg" />  
