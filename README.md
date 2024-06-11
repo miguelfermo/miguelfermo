@@ -6,8 +6,8 @@
 
 🪀 <b>Skills</b>
 
-- **Frontend:** HTML, CSS e JavaScript
-- **Backend:** Python
+- **Frontend:** HTML, CSS e JavaScript.
+- **Backend:** Python.
 
 👔 <b> Soft skills</b>
 <br>
@@ -21,28 +21,35 @@
  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfermo&title_color=134BD6&icon_color=134BD6&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 
-## 📌| Technologies I use in my day
+## 📌| Technologies I use in my day and currently studying
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Miguel-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="vitejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
   ||
-  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   ||
-  <img align="center" alt="Miguel-flask" height="30" width="40" src="https://skillicons.dev/icons?i=flask"> 
-  <img align="center" alt="Miguel-streamlit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg">
-  <img align="center" alt="Miguel-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"> 
-  <img align="center" alt="Miguel-numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+    <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  ||
+  <img align="center" alt="flask" height="40" width="40" src="https://skillicons.dev/icons?i=flask"> 
+  <img align="center" alt="streamlit" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg">
+  <img align="center" alt="pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"> 
+  <img align="center" alt="numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   || 
-  <img align="center" alt="Miguel-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Miguel-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Miguel-github" height="30" width="40" src="https://skillicons.dev/icons?i=github"> 
-  <img align="center" alt="Miguel-notion" height="30" width="40" src="https://skillicons.dev/icons?i=notion"> 
-  || 
-  <img align="center" alt="Miguel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Miguel-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+  <img align="center" alt="markdown" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> 
+  <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="markdown" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"> 
+  <img align="center" alt="github" height="40" width="40" src="https://skillicons.dev/icons?i=github"> 
+  <img align="center" alt="notion" height="40" width="40" src="https://skillicons.dev/icons?i=notion"> 
+
   
 </div>
 
