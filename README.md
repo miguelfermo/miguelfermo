@@ -32,6 +32,7 @@
     <img style="margin-right:5px" align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img style="margin-right:5px" align="center" alt="postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img style="margin-right:5px" align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+    <img style="margin-right:5px" align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 </div>
 <div style="display: flex; justify-content: center;" align=center>
     <img style="margin-right:5px" align="center" alt="flask" height="40" width="40" src="https://skillicons.dev/icons?i=flask"> 
