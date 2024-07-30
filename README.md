@@ -7,7 +7,7 @@
 🪀 <b>Skills</b>
 
 - **Frontend:** HTML, CSS e JavaScript.
-- **Backend:** Python.
+- **Backend:** Python e Java.
 
 👔 <b> Soft skills</b>
 <br>
