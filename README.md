@@ -44,6 +44,7 @@
     <img style="margin-right:5px" align="center" alt="numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
     <img style="margin-right:5px" align="center" alt="pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"> 
     <img style="margin-right:5px" align="center" alt="numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+    <img style="margin-right:5px" align="center" alt="numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <img style="margin-right:5px" align="center" alt="vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img style="margin-right:5px" align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
     <img style="margin-right:5px" align="center" alt="notion" height="40" width="40" src="https://skillicons.dev/icons?i=netlify"> 
