@@ -10,8 +10,11 @@
 
 🪀 <b>Skills</b>
 
-- **Frontend:** HTML, CSS, JavaScript e React.
-- **Backend:** Python e Java.
+- **Frontend:** HTML, CSS, JavaScript, React com Vite.
+- **Backend:** Python, Node, Java.
+- **Database:** MongoDB, SQLite, Postgresql
+- **Cloud & DevOps:** Docker, Git, GitHub Actions
+
 
 👔 <b> Soft skills</b>
 <br>
