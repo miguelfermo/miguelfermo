@@ -25,8 +25,7 @@
 
 <br>
 
- ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfermo&title_color=134BD6&icon_color=134BD6&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
+ ![MiguelFermo GitHub stats](https://gms-puce.vercel.app/api?username=miguelfermo&show_icons=true&theme=radical&hide_border=true&title_color=134BD6&icon_color=134BD6&show_icons=true)
 
 ## 📌| Technologies I use in my day and currently studying
 <div style="display: flex; justify-content: center;" align=center>
