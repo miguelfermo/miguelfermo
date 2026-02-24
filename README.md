@@ -80,5 +80,5 @@
 ## 📍 Profile Visitor Count
 <div align=center>
  
-  <img src="https://profile-counter.glitch.me/miguelfermo/count.svg" />  
+  <img src="https://komarev.com/ghpvc/?username=miguelfermo" />  
 </div>
