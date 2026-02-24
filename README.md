@@ -74,7 +74,7 @@
 ## 🏆| GitHub Trophies
 <div align=center>
 
- ![Fraga GitHub stats](https://github-profile-trophy.vercel.app/?username=MiguelFermo&title_color=6B13D6&icon_color=6B13D6&show_icons=true&hide_border=true&no-bg=true&count_private=true&&theme=algolia&no-frame=true&title=Stars,Followers,Commits,PullRequest,Repositories,Issues&column=-1)
+ ![Fraga GitHub stats](https://github-trophies.vercel.app/?username=miguelfermo&title_color=6B13D6&icon_color=6B13D6&show_icons=true&hide_border=true&no-bg=true&count_private=true&&theme=algolia&no-frame=true&title=LongTimeUser,Commits,Followers,Stars,PullRequest,Repositories)
 </div>
 
 ## 📍 Profile Visitor Count
